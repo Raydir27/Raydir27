@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raydir27
 - 👀 I’m interested in ...Food
 - 🌱 I’m currently learning ...ML,AI,*stil working on the rest =__= *
-- 💞️ I’m looking to collaborate on ...Machine learning, learning Deustche and Donuts.
-- 📫 How to reach me ...Uhh, text  me? (rbiswas_be22@thapar.edu ; valid till 2026)
+- 💞️ I’m looking to collaborate on ...Machine learning, learning Français, Deustche and Donuts.
+- 📫 How to reach me ...Uhh, email me? (rajarshibiswas27@gmail.com; valid till 2026)
 - 😄 Pronouns: ...Why?
 - ⚡ Fun fact: ...I taught myself to repair clocks.
 
