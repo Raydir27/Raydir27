@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raydir27
 - 👀 I’m interested in ...Money and Deep Learning
-- 🌱 I’m currently working in ...ML,DL & Computer Vision
+- 🌱 I’m currently developing in the domains of ...ML,DL & Computer Vision
 - I’m looking to collaborate on ...Deep Learning, Computer Vision, learning Français, Deutsche and Donuts.
 - 📫 How to reach me ...Uhh, email me? (rajarshibiswas27@gmail.com)
 - ⚡ Fun fact: ...I taught myself to repair clocks.
